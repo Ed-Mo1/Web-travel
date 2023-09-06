@@ -539,7 +539,12 @@ header {
     line-height: 25px;
   }
   .tour .box h4 {
-    bottom: 40px;
+    bottom: 40px !important;
+    left: 20px !important;
+  }
+  .tour .box h6 {
+    left: 20px !important;
+    bottom: 75px !important;
   }
   header .logo {
     font-size: 2rem;
