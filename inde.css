@@ -538,7 +538,7 @@ header {
   .home .home-text p {
     line-height: 25px;
   }
-  .tour .box {
+  .tour .box h4 {
     bottom: 40px;
   }
   header .logo {
