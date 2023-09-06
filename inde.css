@@ -538,6 +538,9 @@ header {
   .home .home-text p {
     line-height: 25px;
   }
+  .tour .box {
+    bottom: 40px;
+  }
   header .logo {
     font-size: 2rem;
   }
